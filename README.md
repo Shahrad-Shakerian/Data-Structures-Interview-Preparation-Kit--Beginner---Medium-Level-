@@ -75,4 +75,4 @@
 3. Merges the smaller list into new list in sorted order.
 
 
-* Feel free to directly send me messages on LinkedIn (Shahrad Shakerian) and ask your questions for getting a job as a data scientist with any kind of background and experience you have.
+# Feel free to directly send me messages on LinkedIn (Shahrad Shakerian) and ask your questions for getting a job as a data scientist or machine learning engineer with any kind of background and experience you have.
