@@ -25,10 +25,17 @@
 2. Each node contains data field and reference to the next node; elements are linked using pointers.
 3. Linked list has a dynamic data structure, so it can grow or shrink with the data size. Therefore, no need to specify initial size and no memory westage.
 
+# Singly linked list vs. Doubly linked list:
+1. In the singly linked list, nodes with a data field and a pointer to nede. However, in the doubly linked list, nodes with a data field and a pointer to previous and next node.
+2. In the singly linked list, traversal is allowed in one way. However, in doubly linked list, the traversal is possible in both direction of forward and backward.
+
 # What is queue?
 1. Queue is an ordered collection of items.
 2. Addition at REAR end, removal at FRONT end.
 3. Queue has FIFO stucture, first in first out structure. (elements that is added first will be removed first)
+
+# Stack vs. Queue:
+1. In Stack, the insertaion and deletion occur at same end (LIFO). However, in queue, the insertion and deletion occur at opposite ends (FIFO).
 
 # What are binary trees?
 1. Tree type data structure with two nodes.
@@ -46,3 +53,19 @@
 2. Target value is compared with the middle most item. If target value is less than middle value, it continues the same procedure in sub-array left to middle.
 3. Search continues until the value is found or sub-array value becomes zero.
 4. Quick and efficient method.
+
+# What is recursive algorithm?
+1. Routine calls itself from within its own code based on terminating condition.
+2. Way of solving a problem by dividing it into sub-problems.
+3. Output of one recursion becomes input to the next.
+
+# What is bubble sort?
+1. Simplest sorting algorithm.
+2. Each pair of adjacent values is compared and positions swapped if order is wrong.
+3. Process continues until no swaps required.
+
+# What is merge sort?
+1. Merge sort is an efficient sorting algorithm that uses the strategy of divide, conquer, and combine.
+2. List is divided recursively into two halves until no division is possible.
+3. Merges the smaller list into new list in sorted order.
+
