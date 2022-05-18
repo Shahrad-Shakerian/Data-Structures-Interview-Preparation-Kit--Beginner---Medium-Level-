@@ -20,6 +20,11 @@
 2. Insertion of item in stack is called PUSH operation.
 3. Removal of an item from stack is called POP operation.
 
+# What are the advantages of Heap over Stack?
+1. Heap is memory flexible so the memory space can be dynamically allocated and de-allocated.
+2. Heap memory can be comparatively slower at times.
+3. Heap size is much larger than stack.
+
 # What is a linked list and its advantages?
 1. Linked list is a sequence of nodes that each node is connected to the following node.
 2. Each node contains data field and reference to the next node; elements are linked using pointers.
